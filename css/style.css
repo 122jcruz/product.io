@@ -1,0 +1,17 @@
+body{
+  background-color:#F7B3AD;
+}
+h1{
+  color:#5681B5;
+  font-family: 'Caveat', cursive;
+  font-size:90px;
+  position: absolute;
+  top: 20px;
+  left:500px;
+}
+img{
+  position: absolute;
+  top: 200px;
+  left:550px;
+  width:400px
+}
