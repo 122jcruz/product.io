@@ -3,15 +3,21 @@ body{
 }
 h1{
   color:#5681B5;
-  font-family: 'Caveat', cursive;
-  font-size:90px;
+  font-family: 'Unica One', cursive;
+  font-size:60px;
   position: absolute;
-  top: 20px;
-  left:500px;
+  top: 50px;
+  left:550px;
 }
 img{
   position: absolute;
   top: 200px;
-  left:550px;
-  width:400px
+  left:500px;
+  width:1000px
+}
+.what{
+  position: absolute;
+  top: 10px;
+  left:0px;
+  width: 400px;
 }
