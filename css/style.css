@@ -10,6 +10,9 @@ table{
   font-family: 'BenchNine', sans-serif;
   color:#FFFFFF;
 }
+a{
+  color:#FFFFFF;
+}
 .black{
   position: absolute;
   top: 0px;
@@ -40,19 +43,52 @@ h1{
   font-size:60px;
   position: absolute;
   top: 50px;
-  left:600px;
-}
-.pinky{
-  position: absolute;
-  top: 155px;
-  left:445px;
-  width: 1000px;
-  height: 10px;
+  left:626px;
 }
 .straw{
-    position: absolute;
-    top: 190px;
-    left:445px;
-    width: 1000px;
-    height: 500px;
+  position: absolute;
+  top: 190px;
+  left:445px;
+  width: 1000px;
+  height: 500px;
+}
+.pinkyy{
+  position: absolute;
+  top: 750px;
+  left:200px;
+  width: 1500px;
+  height: 10px;
+}
+.sh{
+  position: absolute;
+  top: 800px;
+  left:300px;
+
+}
+h2{
+  position: absolute;
+  top: 900px;
+  left:1100px;
+  font-family: 'BenchNine', sans-serif;
+}
+h3{
+  font-family: 'Open Sans Condensed', sans-serif;
+  position: absolute;
+  top: 910px;
+  left:1100px;
+  font-size: 50px
+}
+.money{
+  font-family: 'Open Sans Condensed', sans-serif;
+  position: absolute;
+  top: 985px;
+  left:1100px;
+  font-size: 50px
+}
+p{
+  position: absolute;
+  top: 1080px;
+  left:1100px;
+  font-size:25px;
+  font-family: 'BenchNine', sans-serif;
 }
