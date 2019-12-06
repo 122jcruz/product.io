@@ -61,9 +61,8 @@ h1{
 }
 .sh{
   position: absolute;
-  top: 800px;
+  top:800px;
   left:300px;
-
 }
 h2{
   position: absolute;
@@ -91,4 +90,50 @@ p{
   left:1100px;
   font-size:25px;
   font-family: 'BenchNine', sans-serif;
+}
+.mi{
+  position: absolute;
+  top: 1800px;
+  left: 100px;
+  width:400px;
+}
+.pa{
+  position: absolute;
+  top: 2200px;
+  left: 500px;
+  width:400px;
+  height: 300px
+}
+.co{
+  position: absolute;
+  top: 1820px;
+  left: 1000px;
+  width:400px;
+}
+.sw{
+  position: absolute;
+  top: 2180px;
+  left: 1400px;
+  width:440px;
+  height:300px
+}
+.ah{
+  position: absolute;
+  top: 2000px;
+  left: 500px;
+}
+.ahh{
+  position: absolute;
+  top: 2300px;
+  left: 300px;
+}
+.ahhh{
+  position: absolute;
+  top: 2000px;
+  left: 1420px;
+}
+.ahhhh{
+  position: absolute;
+  top: 2300px;
+  left: 1310px;
 }
