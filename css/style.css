@@ -145,9 +145,6 @@ p{
   top: 2300px;
   left: 1310px;
 }
-.logo:hover{
-  background-color:
-}
 .logo{
   position: absolute;
   top: 200px;
@@ -232,4 +229,12 @@ p{
   top: 1200px;
   left:1650px;
   width: 400px;
+}
+.ms,.gg,.li,.ve{
+  padding: 50px;
+  transition: transform .2s;
+  margin: 0 auto;
+}
+.ms:hover,.gg:hover,.li:hover,.ve:hover{
+  transform: scale(1.5);
 }
