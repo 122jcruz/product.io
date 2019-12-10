@@ -1,0 +1,269 @@
+body{
+  background-image:url('img/off.jpg');
+}
+table{
+  position: absolute;
+  top: 25px;
+  left:0px;
+  width:1000px;
+  font-size:30px;
+  font-family: 'BenchNine', sans-serif;
+  color:#FFFFFF;
+}
+
+a:hover,th:hover{
+  color:#E88BA1;
+}
+a{
+  color:#FFFFFF;
+}
+.black{
+  position: absolute;
+  top: 0px;
+  left:0px;
+  width:2000px;
+  height: 90px;
+}
+.pink2{
+  position: absolute;
+  top: 0px;
+  left:0px;
+  width:2000px;
+  height: 15px;
+}
+.pink{
+  position: absolute;
+  top: 75px;
+  left:0px;
+  width:2000px;
+  height: 15px;
+}
+h1{
+  font-size: 72px;
+  background: -webkit-linear-gradient(#F5B5CB, #c96bb1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'BenchNine', sans-serif;
+  font-size:60px;
+  position: absolute;
+  top: 50px;
+  left:626px;
+}
+.straw{
+  position: absolute;
+  top: 190px;
+  left:445px;
+  width: 1000px;
+  height: 500px;
+}
+.pinkyy{
+  position: absolute;
+  top: 750px;
+  left:200px;
+  width: 1500px;
+  height: 10px;
+}
+.sh{
+  position: absolute;
+  top:800px;
+  left:300px;
+}
+h2{
+  position: absolute;
+  top: 900px;
+  left:1100px;
+  font-family: 'BenchNine', sans-serif;
+}
+h3{
+  font-family: 'Open Sans Condensed', sans-serif;
+  position: absolute;
+  top: 910px;
+  left:1100px;
+  font-size: 50px
+}
+.money{
+  font-family: 'Open Sans Condensed', sans-serif;
+  position: absolute;
+  top: 985px;
+  left:1100px;
+  font-size: 50px
+}
+p{
+  position: absolute;
+  top: 1080px;
+  left:1100px;
+  font-size:25px;
+  font-family: 'BenchNine', sans-serif;
+}
+.mi,.pa,.sw,.co,.sh{
+  padding: 50px;
+  transition: transform .2s;
+  margin: 0 auto;
+}
+.mi:hover,.pa:hover,.sw:hover,.co:hover,.sh:hover {
+  transform: scale(1.5);
+}
+.mi{
+  position: absolute;
+  top: 1800px;
+  left: 100px;
+  width:400px;
+}
+.pa{
+  position: absolute;
+  top: 2200px;
+  left: 500px;
+  width:400px;
+  height: 300px
+}
+.co{
+  position: absolute;
+  top: 1820px;
+  left: 1000px;
+  width:400px;
+}
+.sw{
+  position: absolute;
+  top: 2180px;
+  left: 1400px;
+  width:440px;
+  height:300px
+}
+.ah{
+  position: absolute;
+  top: 2000px;
+  left: 500px;
+}
+.ahh{
+  position: absolute;
+  top: 2300px;
+  left: 300px;
+}
+.ahhh{
+  position: absolute;
+  top: 2000px;
+  left: 1480px;
+}
+.ahhhh{
+  position: absolute;
+  top: 2300px;
+  left: 1310px;
+}
+.logo{
+  position: absolute;
+  top: 200px;
+  left:200px;
+  width: 600px;
+  background-color:#E88BA1;
+}
+.logo:hover{
+  background-color:#E88BA1;
+  -moz-box-shadow: 0 0 20px #ccc;
+      -webkit-box-shadow: 0 0 20px #ccc;
+      box-shadow: 0 10 20px #ccc;
+}
+.ab{
+  position: absolute;
+  top: 200px;
+  left:990px;
+  font-family: 'BenchNine', sans-serif;
+}
+.abou{
+  position: absolute;
+  top: 290px;
+  left:990px;
+  font-family: 'BenchNine', sans-serif;
+  font-size: 20px
+}
+.abo{
+  position: absolute;
+  top: 350px;
+  left:990px;
+  font-family: 'BenchNine', sans-serif;
+}
+.about{
+  position: absolute;
+  top: 900px;
+  left:0px;
+  width:2000px;
+  height:100px;
+}
+.do{
+  position: absolute;
+  top: 920px;
+  left:800px;
+  width:50px;
+}
+.doo{
+  position: absolute;
+  top: 920px;
+  left:900px;
+  width:50px;
+}
+.dooo{
+  position: absolute;
+  top: 920px;
+  left:1000px;
+  width:50px;
+}
+.theah{
+  position: absolute;
+  top: 100px;
+  left:450px;
+}
+.ms{
+  position: absolute;
+  top: 300px;
+  left:200px;
+  width: 400px
+}
+.gg{
+  position: absolute;
+  top: 300px;
+  left:1200px;
+  width: 400px
+}
+.li{
+  position: absolute;
+  top: 1000px;
+  left:200px;
+  width: 400px
+}
+.ve{
+  position: absolute;
+  top: 1000px;
+  left:1200px;
+  width: 400px;
+}
+.o{
+  position: absolute;
+  top: 500px;
+  left:700px;
+  width: 400px
+}
+.oo{
+  position: absolute;
+  top: 500px;
+  left:1650px;
+  width: 400px
+}
+.oof{
+  position: absolute;
+  top: 1200px;
+  left:700px;
+  width: 400px
+}
+.oooff{
+  position: absolute;
+  top: 1200px;
+  left:1650px;
+  width: 400px;
+}
+.ms,.gg,.li,.ve{
+  padding: 50px;
+  transition: transform .2s;
+  margin: 0 auto;
+}
+.ms:hover,.gg:hover,.li:hover,.ve:hover{
+  transform: scale(1.5);
+}
